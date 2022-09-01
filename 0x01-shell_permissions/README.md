@@ -1,2 +1,1 @@
-5. script 4-empty creates an empty file hello
-6. script 5-execute gives owner execution permissions
+7. script 6-multiple_permissions add x permissions on owner and group and read in other users
